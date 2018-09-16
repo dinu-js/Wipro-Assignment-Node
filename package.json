@@ -1,0 +1,15 @@
+{
+  "name": "com-wipro-assignment",
+  "version": "1.0.0",
+  "description": "Node.js assignment for project opportunity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "Dinesh Rawat (321479, dinesh.rawat1@wipro.com)",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
