@@ -16,6 +16,8 @@
 
 3 - npm start (To start the server)
 
+4 - npm test (To run test files)
+
 ## Author
 
 Dinesh Rawat - 321479 - dinesh.rawat1@wipro.com
